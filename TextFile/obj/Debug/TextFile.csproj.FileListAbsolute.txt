@@ -1,0 +1,7 @@
+C:\Users\Megumin\source\repos\TextFile\TextFile\bin\Debug\TextFile.exe.config
+C:\Users\Megumin\source\repos\TextFile\TextFile\bin\Debug\TextFile.exe
+C:\Users\Megumin\source\repos\TextFile\TextFile\bin\Debug\TextFile.pdb
+C:\Users\Megumin\source\repos\TextFile\TextFile\obj\Debug\TextFile.csprojAssemblyReference.cache
+C:\Users\Megumin\source\repos\TextFile\TextFile\obj\Debug\TextFile.csproj.CoreCompileInputs.cache
+C:\Users\Megumin\source\repos\TextFile\TextFile\obj\Debug\TextFile.exe
+C:\Users\Megumin\source\repos\TextFile\TextFile\obj\Debug\TextFile.pdb
